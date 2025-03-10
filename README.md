@@ -1,8 +1,8 @@
-# React + Vite
+# Consegna
+La richiesta del cliente era molto chiara. Aveva bisogno di fornire al team di accompagnatori una rubrica con i seguenti dati: nome, cognome, numero di telefono e codice fiscale dei partecipanti, in modo da poterli contattare tempestivamente in caso di necessità mentre si trovano in viaggio. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Il team ha pensato e progettato il seguente prototipo:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![home](public/readme/Home.png)
+![dettaglio](public/readme/dettaglio.png)
+![aggiungi](public/readme/aggiungi.png)
